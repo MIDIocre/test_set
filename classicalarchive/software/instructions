@@ -1,0 +1,3 @@
+# use script as below to call the jar file. Java 1.7 seems work well with me under ubuntu.
+java -jar DownloadManager.jar
+
